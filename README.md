@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 💬 Ask me about **DSA, C, Python, HTML and CSS**
+- 💬 Ask me about **DSA, Java, HTML and CSS**
 
 - 📫 How to reach me **saumyad.kundu@gmail.com**
 
