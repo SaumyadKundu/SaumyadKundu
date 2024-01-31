@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Saumyadeep Kundu</h1>
-<h3 align="center">A B.Tech in Information Technology second-year student.</h3>
+<h3 align="center">A B.Tech in Information Technology pre-final year student.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
