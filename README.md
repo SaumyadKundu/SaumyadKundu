@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DSA, Java, HTML and CSS**
 
-- 📫 How to reach me **saumyad.kundu@gmail.com**
+- 📫 Email- **saumyad.kundu@gmail.com**
 
 - ⚡ Fun fact **I had Biology major in 12th, lol.**
 
