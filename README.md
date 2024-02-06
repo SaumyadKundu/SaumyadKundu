@@ -16,9 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saumyadeep-kundu-817713226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumyadeep kundu" height="30" width="40" /></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/9300fc53-d6c2-450a-a31c-782aeef64ff1" target="blank"><img align="center" src="https://www.cloudskillsboost.google/qwiklabs_logo_900x887.png" alt="clouskillboost" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/saumyad_kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saumyadeep kundu" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/saumyadw5py/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" alt="GFG" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
