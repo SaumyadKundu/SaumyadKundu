@@ -11,7 +11,7 @@
 
 - 📫 Email- **saumyad.kundu@gmail.com**
 
-- ⚡ Fun fact **I had Biology major in 12th, lol.**
+- ⚡ Fun fact **I had Biology major in 12th.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
