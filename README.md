@@ -1,17 +1,13 @@
 <h1 align="center">Hi, I'm Saumyadeep Kundu</h1>
-<h3 align="center">A B.Tech in Information Technology pre-final year student.</h3>
+<h3 align="center">A B.Tech in Information Technology final year student.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyadkundu&label=Profile%20views&color=0e75b6&style=flat" alt="saumyadkundu" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
-
-- 💬 Ask me about **DSA, Java, HTML and CSS**
+- 🌱 I’m currently learning **JAVA**
 
 - 📫 Email- **saumyad.kundu@gmail.com**
-
-- :globe_with_meridians: [Portfolio Wesite](https://saumyadeep-portfolio.vercel.app/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
