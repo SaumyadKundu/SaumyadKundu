@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyadkundu&label=Profile%20views&color=0e75b6&style=flat" alt="saumyadkundu" /> </p>
 
 - 🌱 I’m currently learning **JAVA**
-
 - 📫 Email- **saumyad.kundu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,7 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left">  <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saumyadkundu&show_icons=true&locale=en" alt="saumyadkundu" /></p>
 
