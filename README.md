@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyadkundu&label=Profile%20views&color=0e75b6&style=flat" alt="saumyadkundu" /> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Java**
 - 📫 Email- **saumyad.kundu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
